@@ -1,0 +1,2 @@
+# errorable
+handle error easier
