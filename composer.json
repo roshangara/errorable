@@ -1,0 +1,36 @@
+{
+  "name": "roshangara/errorable",
+  "description": "handle error easier",
+  "homepage": "https://github.com/roshangara/errorable",
+  "keywords": [
+    "laravel",
+    "lumen",
+    "roshangara",
+    "errorable"
+  ],
+  "support": {
+    "issues": "https://github.com/roshangara/errorable/issues",
+    "source": "https://github.com/roshangara/errorable"
+  },
+  "require": {
+    "php": ">=7.0",
+    "illuminate/support": "^5.0",
+    "illuminate/database": "^5.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Roshangara\\Errorable\\": "src"
+    }
+  },
+  "extra": {
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mohammad Taghikhani",
+      "email": "mroshangara@gmail.com",
+      "homepage": "http://roshangara.ir"
+    }
+  ],
+  "minimum-stability": "dev"
+}
